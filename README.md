@@ -1,4 +1,4 @@
-# CSCI6402 -Neural Networks Applied to NBA Win Shares and Shot Selection
+# CSCI6402 - Neural Networks Applied to NBA Win Shares and Shot Selection
 
 All python files must be run in the same directory as the data files they reference. </br></br>
 For ShotChartAnalysis.py, you can change what load lines are commented to change the player analyzed.
