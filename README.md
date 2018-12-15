@@ -7,4 +7,6 @@ In PredictWinShares.py, you can edit the lower and upper bound of the years incl
 </br></br>
 Data in the report was analyzed in the Google Sheet <a href="https://docs.google.com/spreadsheets/d/1D50JnYPahqpECt8ik2oQOxh5m1TnNSPy0CvW77Uln74/edit?usp=sharing" target="_blank" >here</a>.
 </br></br>
+Final report slides can be found <a href="https://docs.google.com/presentation/d/1b5MtjvvOCt2LjWU-QzhZiRbcz80YcJUdWZRKJM1g1wk/edit?usp=sharing">here</a>.
+</br></br>
 For any questions, please contact me at Ethan.Parks@Colorado.edu
